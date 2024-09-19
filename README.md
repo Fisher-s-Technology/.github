@@ -1,3 +1,4 @@
+.github
 # Fisher's Technology 🚀
 
 Welcome to Fisher's Technology's official GitHub page! We're a leading provider of office equipment, managed IT services, and document management solutions, serving businesses across Idaho, Montana, and Washington.
