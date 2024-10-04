@@ -1,6 +1,6 @@
 # Fisher's Technology 🚀
 
-Welcome to Fisher's Technology's official GitHub page! We're a leading provider of office equipment, managed IT services, and document management solutions, serving businesses across Idaho, Montana, and Washington.
+Welcome to Fisher's Technology's official GitHub page! We're a leading provider of office equipment, managed IT services, and document management solutions, serving businesses across Idaho, Montana, Utah, and Washington.
 
 ---
 
@@ -34,6 +34,6 @@ On this GitHub page, we share open-source projects, tools, and scripts to help b
 
 - Website: [fisherstech.com](https://www.fisherstech.com)
 - LinkedIn: [Fisher's Technology on LinkedIn](https://www.linkedin.com/company/fishers-technology)
-- Twitter: [@Fisherstech](https://twitter.com/Fisherstech)
+- Twitter: [@Fisherstec](https://twitter.com/Fisherstec)
 
 Feel free to explore our repositories and contribute to our projects!
